@@ -1,5 +1,101 @@
-<h1 align="center">Hi 👋, I'm Konstantin</h1>
+<h1 align="center">Hi 👋! I'm Konstantin</h1>
+
+###
+
 <h3 align="center">a Frontend Developer</h3>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+###
+
+<img src="https://raw.githubusercontent.com/constDEFE/constDEFE/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h3 align="left">Everything I've experience with</h3>
+
+###
+
+<h4 align="left">Languages</h4>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="32" alt="html5 logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=js" height="32" alt="javascript logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=ts" height="32" alt="typescript logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=md" height="32" alt="markdown logo"  />
+</div>
+
+###
+
+<h4 align="left">Styles</h4>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=css" height="32" alt="css3 logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="32" alt="tailwindcss logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=sass" height="32" alt="sass logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=styledcomponents" height="32" alt="styledcomponents logo"  />
+</div>
+
+###
+
+<h4 align="left">Frameworks</h4>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react" height="32" alt="react logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=vue" height="32" alt="vuejs logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="32" alt="nextjs logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=nuxtjs" height="32" alt="nuxtjs logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=angular" height="32" alt="angularjs logo"  />
+</div>
+
+###
+
+<h4 align="left">CodeAssisting utils</h4>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="32" alt="eslint logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=postman" height="32" alt="postman logo"  />
+</div>
+
+###
+
+<h4 align="left">Ecosystem</h4>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git" height="32" alt="git logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=github" height="32" alt="github logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="32" alt="gitlab logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="32" alt="nodejs logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="32" alt="vercel logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=vite" height="32" alt="vite logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=webpack" height="32" alt="webpack logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="32" alt="vscode logo"  />
+</div>
+
+###
